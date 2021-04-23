@@ -12,6 +12,7 @@
         <module>dragon-thinking-design-singleton</module>
         <module>singleton</module>
         <module>factory</module>
+        <module>test</module>
     </modules>
 
 
